@@ -19,7 +19,7 @@ deb-src http://security.kali.org/kali-security/ sana/updates main contrib non-fr
 
 This tool has only been run with Kali Linux 2. It is unknown what success you will have running on Ubuntu.
 
-This is my first attempt at coding, please feel free to amend this program to run smoother as you see fit.
+Let me know of any suggested improvements to this tool.
 
 WHAT is designed to be an all in one and simplify WiFi exploitaton covering wardriving, WPA, WPS, MiTM, network scanning, exploitation and geolocation
 
