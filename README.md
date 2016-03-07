@@ -33,11 +33,13 @@ cd root
 
 git clone https://github.com/smoz1986/WHAT-PRO.git
 
-cd WHAT-PRO
+cd WHAT
+
+chmod +x *.*
 
 ./WHAT-installer.sh
 
-2. Once downloaded go to the 'WHAT-PRO' icon and click to start WHAT
+2. Once downloaded go to the 'WHAT' icon and click to start WHAT
 
 3. On 'PRO' version you will have five options (some of these are deprecated for WHAT and WHAT-Pi versions)
 
